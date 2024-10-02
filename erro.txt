@@ -1,0 +1,20 @@
+[ERRO 01] - Caminho incorreto para imagens no arquivo HTML.
+Descrição: O caminho para as imagens no arquivo `index.html` está incorreto. O HTML não está localizando corretamente.
+
+[ERRO 02] - Arquivo CSS não carregado.
+Descrição: O arquivo `style.css` não está sendo aplicado corretamente. Verifique se o caminho do CSS está correto no `index.html`.
+
+[ERRO 03] - Script JavaScript não encontrado.
+Descrição: O arquivo `script.js` não foi encontrado ou não está sendo executado corretamente. Verifique se o caminho está correto e se o script está implementado.
+
+[ERRO 04] - Falha ao carregar fonte personalizada.
+Descrição: A fonte 'Atma' não está carregando no site. Verifique se o link de importação no CSS está correto.
+
+[ERRO 05] - Responsividade falha em dispositivos móveis.
+Descrição: O layout do site não está adequado em dispositivos móveis. O site perde formatação e as imagens não se ajustam corretamente.
+
+[ERRO 06] - Botão sem funcionalidade.
+Descrição: O botão "Clique para ver mensagem especial" não está executando nenhuma ação. Verifique o script associado para adicionar a funcionalidade.
+
+[ERRO 07] - Erro de validação de formulário.
+Descrição: Formulário de interação não valida corretamente os campos obrigatórios. Verificar implementação da validação.
